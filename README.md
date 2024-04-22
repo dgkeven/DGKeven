@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Keven Mendes</h1>
 <h3 align="center">A passionate jr developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Java**
-
-- 📫 How to reach me **dgkeven@outlook.com**
+- 🌱 I’m currently learning **Análise e Desenvolvimento de Sistemas**
+- <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DGKeven&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Kéven Mendes Martins github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGKeven&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
