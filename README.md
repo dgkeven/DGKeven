@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=System.out.println("Welcome+to+my+github!😆"))](https://git.io/typing-svg)
 <h1 align="center">👋 I'm Keven Mendes</h1>
 <h3 align="center">🌱 I'm currently learning Analysis and Systems Development</h3>
 <div align="center">  
