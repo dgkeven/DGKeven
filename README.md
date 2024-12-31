@@ -14,7 +14,7 @@
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,py,nodejs,mysql,linux,git,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,py,django,nodejs,mysql,linux,git,js)](https://skillicons.dev)
   
   
   
