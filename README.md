@@ -6,9 +6,10 @@
 <p>🎓  Systems Analysis and Development Student at <a href="https://uniube.br/" target="blank_">Uniube</a></p>
 <p>📚 Studying cloud solutions and database manipulation</p>
 <hr>
+
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DGKeven&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=00FF00&bg_color=0d1117" alt="Kéven Mendes Martins github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGKeven&layout=compact&hide_border=true&title_color=00FF00&text_color=00FF00&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DGKeven&show_icons=true&count_private=true&hide_border=true&title_color=800080&icon_color=800080&text_color=800080&bg_color=0d1117" alt="Kéven Mendes Martins github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGKeven&layout=compact&hide_border=true&title_color=800080&text_color=800080&bg_color=0d1117" />
 </div>
 
 <div style="display: inline_block">
