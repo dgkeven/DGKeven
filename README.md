@@ -2,7 +2,7 @@
 
 <hr>
 <h1 align="center">👋 I'm Keven Mendes</h1>
-<p>👨‍💻 Devops Intern at <a href="https://logone.com.br/" target="blank_">Log.One Tecnologia</a></p>
+<p>👨‍💻 Development Intern at <a href="https://logone.com.br/" target="blank_">Log.One Tecnologia</a></p>
 <p>🎓  Systems Analysis and Development Student at <a href="https://uniube.br/" target="blank_">Uniube</a></p>
 <p>📚 Studying cloud solutions and database manipulation</p>
 <hr>
