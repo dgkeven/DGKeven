@@ -1,27 +1,27 @@
-<code>System.out.println("Welcome to my github!")</code>
+System.out.println("Welcome to my github!")
 
 <hr>
 <h1 align="center">👋 I'm Keven Mendes</h1>
-<p>👨‍💻 Development Intern at <a href="https://logone.com.br/" target="blank_">Log.One Tecnologia</a></p>
-<p>🎓  Systems Analysis and Development Student at <a href="https://uniube.br/" target="blank_">Uniube</a></p>
-<p>📚 Studying cloud solutions and database manipulation</p>
+<p align="center">
+  👨‍💻 Development Intern at <a href="https://logone.com.br/" target="_blank">Log.One Tecnologia</a><br>
+  🎓 Systems Analysis and Development Student at <a href="https://uniube.br/" target="_blank">Uniube</a><br>
+  📚 Studying cloud solutions and database manipulation
+</p>
 <hr>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DGKeven&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" alt="Kéven Mendes Martins github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGKeven&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DGKeven&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" alt="Kéven Mendes Martins github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGKeven&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" alt="Top Langs" />
 </div>
 
-
-<div style="display: inline_block">
 <hr>
+
 <h3 align="left">Languages and Tools:</h3>
-  
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,aws,js,ts,nodejs,postgres,mysql,linux,django,maven,docker)](https://skillicons.dev)
-  
-  
-  
-  
-  ##
 
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,aws,js,ts,nodejs,postgres,mysql,linux,django,maven,docker" />
+  </a>
+</p>
+
+##
