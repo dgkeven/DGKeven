@@ -3,7 +3,7 @@ System.out.println("Welcome to my github!")
 <hr>
 <h1 align="center">👋 I'm Keven Mendes</h1>
 <p align="center">
-  👨‍💻 Development Intern at <a href="https://logone.com.br/" target="_blank">Log.One Tecnologia</a><br>
+  👨‍💻 Development at <a href="" target="_blank"></a><br>
   🎓 Systems Analysis and Development Student at <a href="https://uniube.br/" target="_blank">Uniube</a><br>
   📚 Studying cloud solutions and database manipulation
 </p>
