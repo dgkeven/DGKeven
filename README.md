@@ -20,7 +20,7 @@ System.out.println("Welcome to my github!")
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,aws,js,ts,nodejs,postgres,mysql,linux,maven,docker,kubernetes,cs,mongo" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,aws,js,ts,react,nodejs,postgres,mysql,linux,maven,docker,kubernetes,cs,mongo" />
   </a>
 </p>
 
