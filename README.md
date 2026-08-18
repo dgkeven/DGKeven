@@ -12,10 +12,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/dgkeven/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:dgkeven@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -32,9 +32,7 @@
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DGKeven&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&bg_color=0d1117" alt="Kéven Mendes GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGKeven&layout=compact&hide_border=true&title_color=58A6FF&text_color=FFFFFF&bg_color=0d1117" alt="Top Langs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGKeven&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=FFFFFF" alt="Top Langs" />
 </div>
 
 <div align="center">
@@ -43,6 +41,4 @@
 
 <hr>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DGKeven&label=Visualizações+do+perfil&color=58A6FF&style=flat" alt="Profile views" />
 </p>
