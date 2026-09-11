@@ -29,3 +29,17 @@
 </p>
 
 <hr>
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DGKeven&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&bg_color=0d1117" alt="Kéven Mendes GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGKeven&layout=compact&hide_border=true&title_color=58A6FF&text_color=FFFFFF&bg_color=0d1117" alt="Top Langs" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DGKeven&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+</div>
+
+<hr>
+<hr>
