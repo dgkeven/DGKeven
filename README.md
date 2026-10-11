@@ -6,9 +6,9 @@
 
 <p align="center">
   💼 Desenvolvedor na <a href="https://siat.com.br/" target="_blank"><b>Siat Informática</b></a><br>
-  🎓 Estudante de Análise e Desenvolvimento de Sistemas na <a href="https://uniube.br/" target="_blank"><b>Uniube</b></a><br>
+  🎓 Formado em Análise e Desenvolvimento de Sistemas pela <a href="https://uniube.br/" target="_blank"><b>Uniube</b></a><br>
   ☁️ Aprofundando conhecimentos em soluções em nuvem e manipulação de banco de dados<br>
-  🚀 Sempre construindo algo novo — confira meus repositórios abaixo
+  🚀 Sempre construindo algo novo
 </p>
 
 <p align="center">
